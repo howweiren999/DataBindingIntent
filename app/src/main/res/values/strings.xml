@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Data Binding Intent</string>
+    <string name="phone">Phone</string>
+    <string name="Name">Name</string>
+    <string name="Save">Save</string>
+    <string name="Send">Send</string>
+    <string name="done">DONE</string>
+    <string name="call">call</string>
+    <string name="reply">reply</string>
+</resources>
